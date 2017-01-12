@@ -1,0 +1,29 @@
+body {
+	background-color: #76D7C4;
+	padding: 10px;
+	font-family: sans-serif;
+	color: #34495E;
+}
+
+header {
+	text-align: center;
+}
+
+header p {
+	padding: 0 100px;
+}
+
+section, header {
+	background-color: #FFF;
+	padding: 30px;
+	margin: 10px;
+}
+
+address {
+	padding: 10px 0;
+}
+
+li {
+	line-height: 25px;
+}
+
